@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently developing a wsgi framework.
+I'm currently developing a PHP framework.
 
 <!--
 **oslinia/oslinia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
