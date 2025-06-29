@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently developing a PHP framework.
+Started diving into the C language in conjunction with WINAPI.
 
 <!--
 **oslinia/oslinia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
